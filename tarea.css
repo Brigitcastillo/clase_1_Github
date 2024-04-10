@@ -1,0 +1,17 @@
+body{
+    font-family:  sans-serif;
+}
+h1{
+    color: #252eff; font-size: 24px;
+     font-weight: 700; font-family: sans-serif ;
+}
+input{
+    border-style: solid; border-width: 2px; 
+    border-color: #6066ff; border-radius: 10px;
+    width: 350px; height: 30px;
+}
+button{
+    color: white; font-size: 15px;
+     background-color: #252eff; border-radius: 20px;
+     width: 350px; height: 35px;
+}
